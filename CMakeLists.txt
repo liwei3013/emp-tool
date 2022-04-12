@@ -2,6 +2,7 @@ cmake_minimum_required (VERSION 2.8.12)
 project (emptool)
 set(NAME "emp-tool")
 
+message(STATUS "+++++++++________________")
 message(STATUS ${TEST})
 
 ADD_CUSTOM_COMMAND(
